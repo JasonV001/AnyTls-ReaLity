@@ -1,8 +1,8 @@
-# 一键安装
+# AnyTls一键安装
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/JasonV001/AnyTls-ReaLity/main/install_anytls.sh)
 ```
-# xray-vless-reality一键安装
+# ReaLity一键安装
 ```
 apt update
 apt install -y curl
