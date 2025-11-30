@@ -184,4 +184,4 @@ bash <(curl -L https://github.com/crazypeace/xray-vless-reality/raw/main/install
 
 
 # 用你的STAR告诉我这个Repo对你有用 Welcome STARs! :)
-[![Stargazers over time](https://starchart.cc/crazypeace/xray-vless-reality.svg)](https://starchart.cc/crazypeace/xray-vless-reality)
+[![Stargazers over time](https://starchart.cc/JasonV001/AnyTls-ReaLity.svg)](https://starchart.cc/JasonV001/AnyTls-ReaLity)
