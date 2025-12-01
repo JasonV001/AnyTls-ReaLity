@@ -157,13 +157,10 @@ xray uuid
 bash <(curl -L git.io/warp.sh) 4
 ```
 
-</details>
-
 # Uninstall
 ```
 bash -c "$(curl -L https://github.com/XTLS/Xray-install/raw/main/install-release.sh)" @ remove --purge
 ```
-
 # 脚本支持带参数运行
 ```
 bash <(curl -L https://github.com/crazypeace/xray-vless-reality/raw/main/install.sh) <netstack> [port] [domain] [UUID]
@@ -187,4 +184,5 @@ bash <(curl -L https://github.com/crazypeace/xray-vless-reality/raw/main/install
 bash <(curl -L https://github.com/crazypeace/xray-vless-reality/raw/main/install.sh) 6 443 learn.microsoft.com 1b0b723f-0544-4f9c-8df8-2b8975c5e47a
 ```
 
+</details>
 
