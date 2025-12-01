@@ -5,6 +5,9 @@ bash <(curl -Ls https://raw.githubusercontent.com/JasonV001/AnyTls-ReaLity/main/
 # ReaLity一键安装
 <details>
     <summary>(点击展开)</summary>
+    
+    # ReaLity一键安装
+    
 ```
 apt update
 apt install -y curl
